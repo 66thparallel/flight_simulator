@@ -24,7 +24,7 @@ At the end of the simulation the program will display for each company:
 This simulation assumes the following: All vehicles start with a fully charged 
 battery. The vehicle is airborne for the full use of the battery. The vehicle 
 instanteously reaches cruise speed and instanteously gets in line for the charger 
-right when it runs out of battery.
+when it runs out of battery.
 
 
 **Files**  
