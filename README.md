@@ -46,7 +46,7 @@ _g++ -std=c++11 -c *.cpp_
 _g++ -std=c++11 *.o -o evtol.out_  
 _./evtol.out_  
 
-If cmake is available, type _make_ at the command line. This program outputs to the console.
+A Cmake makefile is available. If cmake is installed, type _make_ at the command line. This program outputs to the console.
   
   
 **Notes**
