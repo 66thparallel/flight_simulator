@@ -1,6 +1,6 @@
 ### Flight Simulator
 
-**About**
+**About**  
 This is a simple flight simulator for twenty eVTOL aircraft. A random 
 number of vehicles from five different companies are selected to participate 
 in the simulation. Each manufacturer's vehicle has different characteristics. 
